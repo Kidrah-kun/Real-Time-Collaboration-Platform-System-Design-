@@ -134,6 +134,7 @@ Navigate to [`http://localhost:3000`](http://localhost:3000) to create a room an
 | **Divya Singh** | System Design, Software Engineering, Concurrency Core |
 | **Kartik Yadav** | Frontend Engineering |
 | **Hardik Hathwal** | Backend Engineering|
+| **Kabir Sharma** | Frontend Engineering |
 
 ---
 **License**: MIT
